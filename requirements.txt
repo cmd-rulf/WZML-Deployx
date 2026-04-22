@@ -30,7 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
-git+https://github.com/cmd-rulf/pyrofork-2.2.11-peer-fix.git
+pyrofork==2.2.11
 python-dotenv
 python-magic
 pytz
@@ -40,7 +40,6 @@ speedtest-cli
 telegraph
 tenacity
 tgcrypto
-uv
 uvloop==0.21.0
 xattr
 yt-dlp==2023.10.13
